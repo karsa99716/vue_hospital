@@ -3,6 +3,7 @@
     <img src="./assets/logo.png">
     <router-view/>
   </div>
+  <el-button></el-button>
 </template>
 
 <script>
